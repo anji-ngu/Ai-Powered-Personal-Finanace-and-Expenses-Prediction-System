@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.70.0",
+    "recharts": "^3.10.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  }
+}
