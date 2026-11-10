@@ -1,4 +1,4 @@
-# AI-Powered Personal Finance & Expense Management System
+# AI-Powered Personal Finance & Expense Prediction System
 
 An intelligent personal finance management application designed to help users organize expenses and understand their financial activities through web technologies and machine learning.
 
